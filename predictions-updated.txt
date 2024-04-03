@@ -1,0 +1,6029 @@
+---------------------
+prediction_309.jpg:
+{
+  "x": 335,
+  "y": 233,
+  "width": 584,
+  "height": 359,
+  "confidence": 0.9562914371490479,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_309.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 153,
+  "y": 32,
+  "width": 272,
+  "height": 29,
+  "confidence": 0.875187337398529,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_309.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 319,
+  "y": 472,
+  "width": 615,
+  "height": 30,
+  "confidence": 0.5999289155006409,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_309.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_431.jpg:
+{
+  "x": 257,
+  "y": 269,
+  "width": 495,
+  "height": 264,
+  "confidence": 0.9644911289215088,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_431.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 610,
+  "y": 104,
+  "width": 176,
+  "height": 110,
+  "confidence": 0.9171750545501709,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_431.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 17,
+  "width": 274,
+  "height": 30,
+  "confidence": 0.8975192904472351,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_431.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_342.jpg:
+{
+  "x": 338,
+  "y": 242,
+  "width": 589,
+  "height": 378,
+  "confidence": 0.9652355909347534,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_342.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 177,
+  "y": 32,
+  "width": 260,
+  "height": 29,
+  "confidence": 0.8792474269866943,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_342.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 352,
+  "y": 475,
+  "width": 527,
+  "height": 32,
+  "confidence": 0.7150103449821472,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_342.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_271.jpg:
+{
+  "x": 405,
+  "y": 267,
+  "width": 563,
+  "height": 292,
+  "confidence": 0.9624159932136536,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_271.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 61,
+  "y": 441,
+  "width": 103,
+  "height": 92,
+  "confidence": 0.9376487731933594,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_271.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 17,
+  "width": 293,
+  "height": 32,
+  "confidence": 0.9051339030265808,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_271.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_280.jpg:
+{
+  "x": 406,
+  "y": 267,
+  "width": 560,
+  "height": 292,
+  "confidence": 0.9743805527687073,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_280.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 95,
+  "y": 441,
+  "width": 167,
+  "height": 89,
+  "confidence": 0.9115229845046997,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_280.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 184,
+  "y": 17,
+  "width": 276,
+  "height": 31,
+  "confidence": 0.8925220966339111,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_280.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_435.jpg:
+{
+  "x": 343,
+  "y": 242,
+  "width": 575,
+  "height": 378,
+  "confidence": 0.9502102136611938,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_435.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 186,
+  "y": 17,
+  "width": 307,
+  "height": 32,
+  "confidence": 0.928492546081543,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_435.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 219,
+  "y": 474,
+  "width": 272,
+  "height": 28,
+  "confidence": 0.8225964307785034,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_435.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_315.jpg:
+{
+  "x": 275,
+  "y": 268,
+  "width": 531,
+  "height": 278,
+  "confidence": 0.9473899006843567,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_315.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 107,
+  "width": 135,
+  "height": 115,
+  "confidence": 0.9056203365325928,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_315.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 128,
+  "y": 17,
+  "width": 217,
+  "height": 30,
+  "confidence": 0.9023369550704956,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_315.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_372.jpg:
+{
+  "x": 289,
+  "y": 267,
+  "width": 556,
+  "height": 293,
+  "confidence": 0.9673290252685547,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_372.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 166,
+  "y": 17,
+  "width": 266,
+  "height": 31,
+  "confidence": 0.8476431369781494,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_372.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 645,
+  "y": 74,
+  "width": 107,
+  "height": 53,
+  "confidence": 0.8313827514648438,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_372.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_353.jpg:
+{
+  "x": 614,
+  "y": 269,
+  "width": 154,
+  "height": 114,
+  "confidence": 0.9699296951293945,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_353.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 264,
+  "y": 269,
+  "width": 512,
+  "height": 271,
+  "confidence": 0.9697127342224121,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_353.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 18,
+  "width": 276,
+  "height": 32,
+  "confidence": 0.880107045173645,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_353.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_318.jpg:
+{
+  "x": 284,
+  "y": 268,
+  "width": 540,
+  "height": 286,
+  "confidence": 0.9647538661956787,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_318.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 634,
+  "y": 75,
+  "width": 121,
+  "height": 48,
+  "confidence": 0.9037647247314453,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_318.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 179,
+  "y": 32,
+  "width": 301,
+  "height": 30,
+  "confidence": 0.8966929912567139,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_318.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_417.jpg:
+{
+  "x": 405,
+  "y": 268,
+  "width": 561,
+  "height": 292,
+  "confidence": 0.9692821502685547,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_417.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 97,
+  "y": 455,
+  "width": 165,
+  "height": 68,
+  "confidence": 0.9174289703369141,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_417.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 182,
+  "y": 17,
+  "width": 304,
+  "height": 32,
+  "confidence": 0.9116017818450928,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_417.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_316.jpg:
+{
+  "x": 339,
+  "y": 242,
+  "width": 588,
+  "height": 377,
+  "confidence": 0.9648157954216003,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_316.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 154,
+  "y": 32,
+  "width": 270,
+  "height": 32,
+  "confidence": 0.8590950965881348,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_316.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 290,
+  "y": 474,
+  "width": 399,
+  "height": 31,
+  "confidence": 0.7825771570205688,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_316.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_367.jpg:
+{
+  "x": 339,
+  "y": 250,
+  "width": 591,
+  "height": 365,
+  "confidence": 0.9317736625671387,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_367.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 31,
+  "width": 325,
+  "height": 34,
+  "confidence": 0.8850219249725342,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_367.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 295,
+  "y": 474,
+  "width": 551,
+  "height": 33,
+  "confidence": 0.7357858419418335,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_367.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_405.jpg:
+{
+  "x": 268,
+  "y": 269,
+  "width": 519,
+  "height": 276,
+  "confidence": 0.978373646736145,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_405.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 620,
+  "y": 85,
+  "width": 144,
+  "height": 71,
+  "confidence": 0.9640336036682129,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_405.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 33,
+  "width": 240,
+  "height": 29,
+  "confidence": 0.8612394332885742,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_405.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_266.jpg:
+{
+  "x": 351,
+  "y": 232,
+  "width": 679,
+  "height": 356,
+  "confidence": 0.9862916469573975,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_266.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 191,
+  "y": 18,
+  "width": 292,
+  "height": 32,
+  "confidence": 0.8832849860191345,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_266.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 315,
+  "y": 471,
+  "width": 599,
+  "height": 29,
+  "confidence": 0.7171735763549805,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_266.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_425.jpg:
+{
+  "x": 263,
+  "y": 274,
+  "width": 463,
+  "height": 305,
+  "confidence": 0.9366291761398315,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_425.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 618,
+  "y": 269,
+  "width": 149,
+  "height": 91,
+  "confidence": 0.9141364097595215,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_425.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 166,
+  "y": 17,
+  "width": 240,
+  "height": 32,
+  "confidence": 0.9017399549484253,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_425.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_313.jpg:
+{
+  "x": 399,
+  "y": 276,
+  "width": 507,
+  "height": 321,
+  "confidence": 0.9473695158958435,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_313.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 85,
+  "y": 442,
+  "width": 136,
+  "height": 89,
+  "confidence": 0.9451503157615662,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_313.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 170,
+  "y": 32,
+  "width": 304,
+  "height": 26,
+  "confidence": 0.890968918800354,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_313.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_302.jpg:
+{
+  "x": 86,
+  "y": 440,
+  "width": 137,
+  "height": 90,
+  "confidence": 0.9529943466186523,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_302.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 397,
+  "y": 274,
+  "width": 494,
+  "height": 321,
+  "confidence": 0.951197624206543,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_302.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 172,
+  "y": 32,
+  "width": 307,
+  "height": 29,
+  "confidence": 0.8938888907432556,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_302.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_407.jpg:
+{
+  "x": 353,
+  "y": 235,
+  "width": 677,
+  "height": 353,
+  "confidence": 0.9845840334892273,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_407.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 31,
+  "width": 258,
+  "height": 28,
+  "confidence": 0.9036175608634949,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_407.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 362,
+  "y": 475,
+  "width": 554,
+  "height": 32,
+  "confidence": 0.6653902530670166,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_407.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_339.jpg:
+{
+  "x": 403,
+  "y": 267,
+  "width": 563,
+  "height": 290,
+  "confidence": 0.9816378355026245,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_339.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 84,
+  "y": 457,
+  "width": 137,
+  "height": 71,
+  "confidence": 0.9280486106872559,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_339.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 34,
+  "width": 257,
+  "height": 26,
+  "confidence": 0.8445836901664734,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_339.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_408.jpg:
+{
+  "x": 352,
+  "y": 233,
+  "width": 673,
+  "height": 355,
+  "confidence": 0.9859698414802551,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_408.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 143,
+  "y": 32,
+  "width": 219,
+  "height": 27,
+  "confidence": 0.8986870050430298,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_408.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 352,
+  "y": 471,
+  "width": 527,
+  "height": 29,
+  "confidence": 0.7442069053649902,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_408.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_396.jpg:
+{
+  "x": 403,
+  "y": 267,
+  "width": 562,
+  "height": 292,
+  "confidence": 0.9626979827880859,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_396.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 80,
+  "y": 442,
+  "width": 138,
+  "height": 90,
+  "confidence": 0.9600589871406555,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_396.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 179,
+  "y": 32,
+  "width": 297,
+  "height": 28,
+  "confidence": 0.8954704999923706,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_396.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_378.jpg:
+{
+  "x": 335,
+  "y": 243,
+  "width": 581,
+  "height": 377,
+  "confidence": 0.9414130449295044,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_378.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 180,
+  "y": 17,
+  "width": 295,
+  "height": 32,
+  "confidence": 0.9062739610671997,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_378.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 298,
+  "y": 474,
+  "width": 547,
+  "height": 32,
+  "confidence": 0.5645005702972412,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_378.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_301.jpg:
+{
+  "x": 351,
+  "y": 235,
+  "width": 682,
+  "height": 354,
+  "confidence": 0.986083447933197,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_301.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 162,
+  "y": 18,
+  "width": 275,
+  "height": 32,
+  "confidence": 0.8951882123947144,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_301.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 352,
+  "y": 477,
+  "width": 529,
+  "height": 34,
+  "confidence": 0.7667195796966553,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_301.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_410.jpg:
+{
+  "x": 337,
+  "y": 243,
+  "width": 582,
+  "height": 376,
+  "confidence": 0.9522891044616699,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_410.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 17,
+  "width": 323,
+  "height": 32,
+  "confidence": 0.9005842804908752,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_410.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 324,
+  "y": 474,
+  "width": 602,
+  "height": 32,
+  "confidence": 0.615523636341095,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_410.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_350.jpg:
+{
+  "x": 258,
+  "y": 269,
+  "width": 494,
+  "height": 261,
+  "confidence": 0.9782611131668091,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_350.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 607,
+  "y": 85,
+  "width": 168,
+  "height": 71,
+  "confidence": 0.957464873790741,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_350.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 17,
+  "width": 275,
+  "height": 32,
+  "confidence": 0.8852036595344543,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_350.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_460.jpg:
+{
+  "x": 271,
+  "y": 269,
+  "width": 523,
+  "height": 277,
+  "confidence": 0.9807889461517334,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_460.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 444,
+  "width": 142,
+  "height": 93,
+  "confidence": 0.9221782088279724,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_460.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 171,
+  "y": 33,
+  "width": 277,
+  "height": 28,
+  "confidence": 0.8637157678604126,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_460.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_310.jpg:
+{
+  "x": 270,
+  "y": 276,
+  "width": 475,
+  "height": 313,
+  "confidence": 0.9352434277534485,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_310.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 94,
+  "width": 141,
+  "height": 93,
+  "confidence": 0.9200083613395691,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_310.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 32,
+  "width": 310,
+  "height": 32,
+  "confidence": 0.8896656036376953,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_310.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_434.jpg:
+{
+  "x": 273,
+  "y": 269,
+  "width": 528,
+  "height": 278,
+  "confidence": 0.977640688419342,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_434.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 623,
+  "y": 442,
+  "width": 135,
+  "height": 90,
+  "confidence": 0.9610793590545654,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_434.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 153,
+  "y": 33,
+  "width": 271,
+  "height": 32,
+  "confidence": 0.8256291151046753,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_434.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_282.jpg:
+{
+  "x": 258,
+  "y": 268,
+  "width": 492,
+  "height": 259,
+  "confidence": 0.983035147190094,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_282.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 604,
+  "y": 432,
+  "width": 171,
+  "height": 114,
+  "confidence": 0.9754471778869629,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_282.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 161,
+  "y": 17,
+  "width": 278,
+  "height": 32,
+  "confidence": 0.8871676325798035,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_282.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_330.jpg:
+{
+  "x": 352,
+  "y": 226,
+  "width": 672,
+  "height": 355,
+  "confidence": 0.9844971895217896,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_330.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 211,
+  "y": 30,
+  "width": 330,
+  "height": 28,
+  "confidence": 0.924959659576416,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_330.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 352,
+  "y": 461,
+  "width": 656,
+  "height": 41,
+  "confidence": 0.9030526876449585,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_330.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_311.jpg:
+{
+  "x": 270,
+  "y": 268,
+  "width": 520,
+  "height": 278,
+  "confidence": 0.9767447710037231,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_311.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 620,
+  "y": 85,
+  "width": 142,
+  "height": 71,
+  "confidence": 0.9613922238349915,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_311.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 173,
+  "y": 17,
+  "width": 281,
+  "height": 30,
+  "confidence": 0.8782733678817749,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_311.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_270.jpg:
+{
+  "x": 353,
+  "y": 233,
+  "width": 671,
+  "height": 355,
+  "confidence": 0.9795546531677246,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_270.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 198,
+  "y": 18,
+  "width": 300,
+  "height": 29,
+  "confidence": 0.9191505908966064,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_270.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 358,
+  "y": 473,
+  "width": 552,
+  "height": 29,
+  "confidence": 0.6326523423194885,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_270.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_444.jpg:
+{
+  "x": 296,
+  "y": 268,
+  "width": 567,
+  "height": 302,
+  "confidence": 0.975673496723175,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_444.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 646,
+  "y": 269,
+  "width": 83,
+  "height": 91,
+  "confidence": 0.9316278696060181,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_444.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 183,
+  "y": 32,
+  "width": 277,
+  "height": 31,
+  "confidence": 0.8716601133346558,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_444.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_412.jpg:
+{
+  "x": 268,
+  "y": 275,
+  "width": 462,
+  "height": 309,
+  "confidence": 0.9387242794036865,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_412.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 269,
+  "width": 141,
+  "height": 90,
+  "confidence": 0.9129494428634644,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_412.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 188,
+  "y": 17,
+  "width": 283,
+  "height": 30,
+  "confidence": 0.889530599117279,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_412.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_352.jpg:
+{
+  "x": 350,
+  "y": 236,
+  "width": 686,
+  "height": 353,
+  "confidence": 0.9820008277893066,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_352.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 17,
+  "width": 272,
+  "height": 32,
+  "confidence": 0.884193480014801,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_352.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 362,
+  "y": 476,
+  "width": 547,
+  "height": 32,
+  "confidence": 0.5992821455001831,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_352.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_449.jpg:
+{
+  "x": 286,
+  "y": 278,
+  "width": 496,
+  "height": 327,
+  "confidence": 0.9393777847290039,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_449.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 163,
+  "y": 17,
+  "width": 263,
+  "height": 32,
+  "confidence": 0.8960868716239929,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_449.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 645,
+  "y": 268,
+  "width": 105,
+  "height": 96,
+  "confidence": 0.8740255832672119,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_449.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_422.jpg:
+{
+  "x": 402,
+  "y": 267,
+  "width": 562,
+  "height": 290,
+  "confidence": 0.9734867215156555,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_422.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 80,
+  "y": 442,
+  "width": 140,
+  "height": 90,
+  "confidence": 0.9623706936836243,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_422.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 171,
+  "y": 17,
+  "width": 249,
+  "height": 31,
+  "confidence": 0.9034215211868286,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_422.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_355.jpg:
+{
+  "x": 270,
+  "y": 277,
+  "width": 469,
+  "height": 314,
+  "confidence": 0.9346731305122375,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_355.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 269,
+  "width": 141,
+  "height": 94,
+  "confidence": 0.8868879079818726,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_355.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 161,
+  "y": 17,
+  "width": 275,
+  "height": 32,
+  "confidence": 0.8817766904830933,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_355.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_409.jpg:
+{
+  "x": 286,
+  "y": 280,
+  "width": 500,
+  "height": 335,
+  "confidence": 0.9274026155471802,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_409.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 17,
+  "width": 257,
+  "height": 32,
+  "confidence": 0.901780366897583,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_409.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 644,
+  "y": 93,
+  "width": 101,
+  "height": 92,
+  "confidence": 0.8764419555664062,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_409.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_433.jpg:
+{
+  "x": 352,
+  "y": 233,
+  "width": 672,
+  "height": 355,
+  "confidence": 0.9874081611633301,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_433.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 17,
+  "width": 286,
+  "height": 30,
+  "confidence": 0.9000284671783447,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_433.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 317,
+  "y": 471,
+  "width": 612,
+  "height": 28,
+  "confidence": 0.7071036696434021,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_433.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_298.jpg:
+{
+  "x": 276,
+  "y": 268,
+  "width": 526,
+  "height": 278,
+  "confidence": 0.9530973434448242,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_298.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 435,
+  "width": 142,
+  "height": 109,
+  "confidence": 0.8954048156738281,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_298.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 188,
+  "y": 17,
+  "width": 285,
+  "height": 32,
+  "confidence": 0.888733983039856,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_298.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_426.jpg:
+{
+  "x": 341,
+  "y": 240,
+  "width": 574,
+  "height": 347,
+  "confidence": 0.9473706483840942,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_426.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 209,
+  "y": 32,
+  "width": 359,
+  "height": 30,
+  "confidence": 0.8851956129074097,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_426.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 248,
+  "y": 473,
+  "width": 343,
+  "height": 28,
+  "confidence": 0.8701531887054443,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_426.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_335.jpg:
+{
+  "x": 619,
+  "y": 270,
+  "width": 140,
+  "height": 50,
+  "confidence": 0.9637187719345093,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_335.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 269,
+  "y": 277,
+  "width": 469,
+  "height": 317,
+  "confidence": 0.9286618232727051,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_335.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 32,
+  "width": 283,
+  "height": 30,
+  "confidence": 0.8747321367263794,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_335.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_376.jpg:
+{
+  "x": 333,
+  "y": 240,
+  "width": 595,
+  "height": 346,
+  "confidence": 0.9440885186195374,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_376.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 191,
+  "y": 32,
+  "width": 317,
+  "height": 29,
+  "confidence": 0.8487613797187805,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_376.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 318,
+  "y": 471,
+  "width": 610,
+  "height": 29,
+  "confidence": 0.5053263306617737,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_376.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_430.jpg:
+{
+  "x": 342,
+  "y": 232,
+  "width": 592,
+  "height": 365,
+  "confidence": 0.9681396484375,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_430.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 184,
+  "y": 17,
+  "width": 305,
+  "height": 32,
+  "confidence": 0.912193775177002,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_430.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 248,
+  "y": 472,
+  "width": 467,
+  "height": 30,
+  "confidence": 0.6315497159957886,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_430.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_377.jpg:
+{
+  "x": 604,
+  "y": 96,
+  "width": 170,
+  "height": 93,
+  "confidence": 0.9467597007751465,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_377.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 248,
+  "y": 275,
+  "width": 436,
+  "height": 296,
+  "confidence": 0.9184499382972717,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_377.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 173,
+  "y": 31,
+  "width": 308,
+  "height": 34,
+  "confidence": 0.870742678642273,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_377.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_276.jpg:
+{
+  "x": 272,
+  "y": 269,
+  "width": 522,
+  "height": 277,
+  "confidence": 0.982357382774353,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_276.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 621,
+  "y": 441,
+  "width": 137,
+  "height": 89,
+  "confidence": 0.9569908976554871,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_276.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 174,
+  "y": 17,
+  "width": 285,
+  "height": 32,
+  "confidence": 0.8712265491485596,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_276.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_319.jpg:
+{
+  "x": 337,
+  "y": 241,
+  "width": 595,
+  "height": 380,
+  "confidence": 0.9701100587844849,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_319.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 162,
+  "y": 32,
+  "width": 276,
+  "height": 31,
+  "confidence": 0.8950570225715637,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_319.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 370,
+  "y": 471,
+  "width": 567,
+  "height": 29,
+  "confidence": 0.7965001463890076,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_319.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_375.jpg:
+{
+  "x": 342,
+  "y": 236,
+  "width": 575,
+  "height": 351,
+  "confidence": 0.9542932510375977,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_375.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 174,
+  "y": 32,
+  "width": 252,
+  "height": 29,
+  "confidence": 0.8816219568252563,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_375.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 264,
+  "y": 472,
+  "width": 380,
+  "height": 28,
+  "confidence": 0.865186333656311,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_375.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_437.jpg:
+{
+  "x": 283,
+  "y": 275,
+  "width": 495,
+  "height": 329,
+  "confidence": 0.9369915723800659,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_437.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 192,
+  "y": 31,
+  "width": 323,
+  "height": 32,
+  "confidence": 0.8901206254959106,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_437.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 643,
+  "y": 462,
+  "width": 110,
+  "height": 53,
+  "confidence": 0.8588811159133911,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_437.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_341.jpg:
+{
+  "x": 293,
+  "y": 273,
+  "width": 514,
+  "height": 343,
+  "confidence": 0.943701982498169,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_341.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 17,
+  "width": 259,
+  "height": 32,
+  "confidence": 0.8934811949729919,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_341.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 653,
+  "y": 270,
+  "width": 88,
+  "height": 53,
+  "confidence": 0.8439257740974426,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_341.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_277.jpg:
+{
+  "x": 256,
+  "y": 275,
+  "width": 442,
+  "height": 300,
+  "confidence": 0.9334108829498291,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_277.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 187,
+  "y": 17,
+  "width": 283,
+  "height": 32,
+  "confidence": 0.8996784687042236,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_277.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 609,
+  "y": 445,
+  "width": 176,
+  "height": 92,
+  "confidence": 0.8896012306213379,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_277.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_370.jpg:
+{
+  "x": 405,
+  "y": 267,
+  "width": 558,
+  "height": 295,
+  "confidence": 0.9646153450012207,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_370.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 82,
+  "y": 441,
+  "width": 140,
+  "height": 92,
+  "confidence": 0.9634631872177124,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_370.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 17,
+  "width": 260,
+  "height": 30,
+  "confidence": 0.9035265445709229,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_370.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_306.jpg:
+{
+  "x": 354,
+  "y": 233,
+  "width": 671,
+  "height": 356,
+  "confidence": 0.9811065196990967,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_306.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 193,
+  "y": 17,
+  "width": 294,
+  "height": 32,
+  "confidence": 0.9085276126861572,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_306.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 307,
+  "y": 471,
+  "width": 434,
+  "height": 25,
+  "confidence": 0.6786392331123352,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_306.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_308.jpg:
+{
+  "x": 275,
+  "y": 268,
+  "width": 528,
+  "height": 280,
+  "confidence": 0.9715783596038818,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_308.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 621,
+  "y": 268,
+  "width": 134,
+  "height": 113,
+  "confidence": 0.9342461228370667,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_308.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 32,
+  "width": 305,
+  "height": 32,
+  "confidence": 0.8928709626197815,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_308.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_265.jpg:
+{
+  "x": 350,
+  "y": 233,
+  "width": 672, 
+  "height": 354,
+  "confidence": 0.9808628559112549,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_265.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 17,
+  "width": 272,
+  "height": 29,
+  "confidence": 0.8977769613265991,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_265.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 249,
+  "y": 471,
+  "width": 325,
+  "height": 25,
+  "confidence": 0.8755743503570557,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_265.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_297.jpg:
+{
+  "x": 352,
+  "y": 235,
+  "width": 689,
+  "height": 353,
+  "confidence": 0.9786821603775024,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_297.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 161,
+  "y": 17,
+  "width": 272,
+  "height": 30,
+  "confidence": 0.9096270799636841,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_297.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 358,
+  "y": 473,
+  "width": 561,
+  "height": 28,
+  "confidence": 0.5931694507598877,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_297.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_279.jpg:
+{
+  "x": 325,
+  "y": 248,
+  "width": 610,
+  "height": 368,
+  "confidence": 0.9487524628639221,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_279.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 154,
+  "y": 32,
+  "width": 265,
+  "height": 30,
+  "confidence": 0.8723376989364624,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_279.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 184,
+  "y": 475,
+  "width": 329,
+  "height": 28,
+  "confidence": 0.8483003973960876,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_279.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_388.jpg:
+{
+  "x": 337,
+  "y": 240,
+  "width": 562,
+  "height": 374,
+  "confidence": 0.9496793746948242,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_388.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 166,
+  "y": 18,
+  "width": 263,
+  "height": 28,
+  "confidence": 0.873853325843811,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_388.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 363,
+  "y": 472,
+  "width": 544,
+  "height": 28,
+  "confidence": 0.6294937133789062,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_388.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_321.jpg:
+{
+  "x": 269,
+  "y": 269,
+  "width": 519,
+  "height": 276,
+  "confidence": 0.9783728718757629,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_321.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 621,
+  "y": 269,
+  "width": 140,
+  "height": 91,
+  "confidence": 0.9323985576629639,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_321.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 192,
+  "y": 17,
+  "width": 290,
+  "height": 32,
+  "confidence": 0.8763495683670044,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_321.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_346.jpg:
+{
+  "x": 352,
+  "y": 235,
+  "width": 678,
+  "height": 354,
+  "confidence": 0.98543381690979,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_346.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 174,
+  "y": 18,
+  "width": 283,
+  "height": 32,
+  "confidence": 0.8731114864349365,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_346.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 291,
+  "y": 473,
+  "width": 550,
+  "height": 29,
+  "confidence": 0.614886999130249,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_346.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_461.jpg:
+{
+  "x": 290,
+  "y": 268,
+  "width": 553,
+  "height": 292,
+  "confidence": 0.9639698266983032,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_461.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 639,
+  "y": 106,
+  "width": 98,
+  "height": 112,
+  "confidence": 0.9393953084945679,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_461.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 165,
+  "y": 32,
+  "width": 263,
+  "height": 31,
+  "confidence": 0.8372858166694641,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_461.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_402.jpg:
+{
+  "x": 352,
+  "y": 233,
+  "width": 670,
+  "height": 355,
+  "confidence": 0.9874733090400696,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_402.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 471,
+  "width": 340,
+  "height": 28,
+  "confidence": 0.9144667983055115,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_402.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 169,
+  "y": 31,
+  "width": 280,
+  "height": 28,
+  "confidence": 0.8963658809661865,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_402.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_427.jpg:
+{
+  "x": 267,
+  "y": 275,
+  "width": 465,
+  "height": 310,
+  "confidence": 0.9481171369552612,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_427.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 216,
+  "y": 17,
+  "width": 341,
+  "height": 32,
+  "confidence": 0.9282745122909546,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_427.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 618,
+  "y": 432,
+  "width": 141,
+  "height": 115,
+  "confidence": 0.9240622520446777,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_427.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_294.jpg:
+{
+  "x": 268,
+  "y": 275,
+  "width": 464,
+  "height": 310,
+  "confidence": 0.9484269022941589,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_294.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 85,
+  "width": 145,
+  "height": 75,
+  "confidence": 0.9045692682266235,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_294.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 198,
+  "y": 32,
+  "width": 337,
+  "height": 32,
+  "confidence": 0.8719148635864258,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_294.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_381.jpg:
+{
+  "x": 341,
+  "y": 242,
+  "width": 587,
+  "height": 382,
+  "confidence": 0.9675702452659607,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_381.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 32,
+  "width": 257,
+  "height": 30,
+  "confidence": 0.8840324878692627,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_381.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 169,
+  "y": 473,
+  "width": 166,
+  "height": 28,
+  "confidence": 0.7924383878707886,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_381.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_385.jpg:
+{
+  "x": 272,
+  "y": 269,
+  "width": 525,
+  "height": 278,
+  "confidence": 0.9804791212081909,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_385.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 444,
+  "width": 142,
+  "height": 92,
+  "confidence": 0.9273170232772827,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_385.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 18,
+  "width": 306,
+  "height": 32,
+  "confidence": 0.9188937544822693,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_385.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_466.jpg:
+{
+  "x": 619,
+  "y": 85,
+  "width": 141,
+  "height": 71,
+  "confidence": 0.9595966339111328,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_466.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 269,
+  "y": 275,
+  "width": 463,
+  "height": 308,
+  "confidence": 0.928128182888031,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_466.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 161,
+  "y": 32,
+  "width": 287,
+  "height": 31,
+  "confidence": 0.8746217489242554,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_466.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_404.jpg:
+{
+  "x": 348,
+  "y": 235,
+  "width": 684,
+  "height": 353,
+  "confidence": 0.9796987771987915,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_404.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 32,
+  "width": 281,
+  "height": 28,
+  "confidence": 0.894405722618103,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_404.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 278,
+  "y": 478,
+  "width": 520,
+  "height": 32,
+  "confidence": 0.748354971408844,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_404.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_392.jpg:
+{
+  "x": 270,
+  "y": 269,
+  "width": 521,
+  "height": 277,
+  "confidence": 0.9733766317367554,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_392.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 96,
+  "width": 143,
+  "height": 92,
+  "confidence": 0.9319528341293335,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_392.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 162,
+  "y": 17,
+  "width": 276,
+  "height": 32,
+  "confidence": 0.889663815498352,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_392.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_395.jpg:
+{
+  "x": 405,
+  "y": 267,
+  "width": 555,
+  "height": 294,
+  "confidence": 0.966099739074707,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_395.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 83,
+  "y": 446,
+  "width": 138,
+  "height": 93,
+  "confidence": 0.9391070604324341,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_395.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 17,
+  "width": 246,
+  "height": 31,
+  "confidence": 0.8970751762390137,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_395.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_287.jpg:
+{
+  "x": 342,
+  "y": 233,
+  "width": 570,
+  "height": 360,
+  "confidence": 0.9555966854095459,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_287.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 188,
+  "y": 17,
+  "width": 283,
+  "height": 32,
+  "confidence": 0.8797990083694458,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_287.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 275,
+  "y": 472,
+  "width": 520,
+  "height": 30,
+  "confidence": 0.6255146265029907,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_287.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_398.jpg:
+{
+  "x": 348,
+  "y": 234,
+  "width": 682,
+  "height": 353,
+  "confidence": 0.9798718690872192,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_398.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 203,
+  "y": 18,
+  "width": 339,
+  "height": 29,
+  "confidence": 0.8959711790084839,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_398.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 255,
+  "y": 471,
+  "width": 487,
+  "height": 31,
+  "confidence": 0.6872882843017578,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_398.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_386.jpg:
+{
+  "x": 296,
+  "y": 268,
+  "width": 566,
+  "height": 302,
+  "confidence": 0.9757717847824097,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_386.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 646,
+  "y": 94,
+  "width": 85,
+  "height": 91,
+  "confidence": 0.9363460540771484,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_386.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 158,
+  "y": 32,
+  "width": 274,
+  "height": 31,
+  "confidence": 0.858519434928894,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_386.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_317.jpg:
+{
+  "x": 614,
+  "y": 444,
+  "width": 155,
+  "height": 91,
+  "confidence": 0.9555635452270508,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_317.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 264,
+  "y": 275,
+  "width": 448,
+  "height": 303,
+  "confidence": 0.9406098127365112,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_317.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 32,
+  "width": 304,
+  "height": 31,
+  "confidence": 0.8522108793258667,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_317.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_373.jpg:
+{
+  "x": 269,
+  "y": 275,
+  "width": 468,
+  "height": 312,
+  "confidence": 0.9142066240310669,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_373.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 433,
+  "width": 142,
+  "height": 111,
+  "confidence": 0.8843849897384644,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_373.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 158,
+  "y": 31,
+  "width": 251,
+  "height": 31,
+  "confidence": 0.8774476051330566,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_373.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_304.jpg:
+{
+  "x": 344,
+  "y": 232,
+  "width": 579,
+  "height": 362,
+  "confidence": 0.9626826047897339,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_304.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 162,
+  "y": 17,
+  "width": 276,
+  "height": 32,
+  "confidence": 0.885150671005249,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_304.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 218,
+  "y": 473,
+  "width": 424,
+  "height": 28,
+  "confidence": 0.6568765640258789,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_304.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_389.jpg:
+{
+  "x": 334,
+  "y": 244,
+  "width": 591,
+  "height": 371,
+  "confidence": 0.9545015096664429,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_389.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 178,
+  "y": 32,
+  "width": 312,
+  "height": 32,
+  "confidence": 0.8587261438369751,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_389.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 295,
+  "y": 472,
+  "width": 552,
+  "height": 30,
+  "confidence": 0.6819355487823486,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_389.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_284.jpg:
+{
+  "x": 349,
+  "y": 234,
+  "width": 681,
+  "height": 356,
+  "confidence": 0.9836065769195557,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_284.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 178,
+  "y": 17,
+  "width": 293,
+  "height": 30,
+  "confidence": 0.907883882522583,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_284.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 289,
+  "y": 472,
+  "width": 555,
+  "height": 29,
+  "confidence": 0.567926287651062,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_284.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_288.jpg:
+{
+  "x": 272,
+  "y": 268,
+  "width": 520,
+  "height": 276,
+  "confidence": 0.9695336818695068,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_288.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 620,
+  "y": 268,
+  "width": 140,
+  "height": 90,
+  "confidence": 0.9491100311279297,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_288.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 221,
+  "y": 16,
+  "width": 353,
+  "height": 33,
+  "confidence": 0.9157747626304626,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_288.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_452.jpg:
+{
+  "x": 334,
+  "y": 247,
+  "width": 555,
+  "height": 361,
+  "confidence": 0.9286185503005981,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_452.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 33,
+  "width": 313,
+  "height": 28,
+  "confidence": 0.8384214043617249,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_452.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 362,
+  "y": 472,
+  "width": 546,
+  "height": 28,
+  "confidence": 0.661597728729248,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_452.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_344.jpg:
+{
+  "x": 277,
+  "y": 268,
+  "width": 537,
+  "height": 286,
+  "confidence": 0.9703335762023926,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_344.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 442,
+  "width": 122,
+  "height": 92,
+  "confidence": 0.9631921052932739,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_344.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 181,
+  "y": 33,
+  "width": 304,
+  "height": 29,
+  "confidence": 0.8894418478012085,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_344.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_336.jpg:
+{
+  "x": 340,
+  "y": 242,
+  "width": 573,
+  "height": 373,
+  "confidence": 0.9604118466377258,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_336.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 32,
+  "width": 253,
+  "height": 30,
+  "confidence": 0.876684308052063,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_336.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 319,
+  "y": 473,
+  "width": 468,
+  "height": 32,
+  "confidence": 0.7610335946083069,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_336.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_465.jpg:
+{
+  "x": 271,
+  "y": 275,
+  "width": 469,
+  "height": 312,
+  "confidence": 0.9481126070022583,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_465.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 181,
+  "y": 17,
+  "width": 296,
+  "height": 32,
+  "confidence": 0.9096385836601257,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_465.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 93,
+  "width": 145,
+  "height": 92,
+  "confidence": 0.9095391035079956,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_465.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_283.jpg:
+{
+  "x": 352,
+  "y": 233,
+  "width": 669,
+  "height": 355,
+  "confidence": 0.978977620601654,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_283.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 165,
+  "y": 17,
+  "width": 270,
+  "height": 32,
+  "confidence": 0.8873292803764343,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_283.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 199,
+  "y": 471,
+  "width": 362,
+  "height": 25,
+  "confidence": 0.880200207233429,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_283.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_358.jpg:
+{
+  "x": 351,
+  "y": 234,
+  "width": 673,
+  "height": 354,
+  "confidence": 0.9839429259300232,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_358.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 147,
+  "y": 17,
+  "width": 254,
+  "height": 30,
+  "confidence": 0.8826518058776855,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_358.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 179,
+  "y": 472,
+  "width": 327,
+  "height": 25,
+  "confidence": 0.8336000442504883,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_358.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_393.jpg:
+{
+  "x": 352,
+  "y": 236,
+  "width": 687,
+  "height": 353,
+  "confidence": 0.9758610725402832,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_393.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 18,
+  "width": 304,
+  "height": 28,
+  "confidence": 0.9002933502197266,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_393.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_418.jpg:
+{
+  "x": 339,
+  "y": 233,
+  "width": 582,
+  "height": 358,
+  "confidence": 0.95269376039505,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_418.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 177,
+  "y": 17,
+  "width": 290,
+  "height": 31,
+  "confidence": 0.8965669274330139,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_418.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 348,
+  "y": 472,
+  "width": 534,
+  "height": 29,
+  "confidence": 0.5924388766288757,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_418.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_441.jpg:
+{
+  "x": 625,
+  "y": 443,
+  "width": 140,
+  "height": 91,
+  "confidence": 0.9177734851837158,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_441.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 266,
+  "y": 281,
+  "width": 463,
+  "height": 307,
+  "confidence": 0.9143932461738586,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_441.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 187,
+  "y": 17,
+  "width": 283,
+  "height": 32,
+  "confidence": 0.8987189531326294,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_441.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_363.jpg:
+{
+  "x": 351,
+  "y": 233,
+  "width": 675,
+  "height": 355,
+  "confidence": 0.9836805462837219,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_363.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 189,
+  "y": 32,
+  "width": 289,
+  "height": 28,
+  "confidence": 0.8938968777656555,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_363.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 290,
+  "y": 471,
+  "width": 435,
+  "height": 25,
+  "confidence": 0.7868316173553467,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_363.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_447.jpg:
+{
+  "x": 339,
+  "y": 237,
+  "width": 591,
+  "height": 364,
+  "confidence": 0.9675864577293396,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_447.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 154,
+  "y": 32,
+  "width": 265,
+  "height": 32,
+  "confidence": 0.8721816539764404,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_447.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 200,
+  "y": 472,
+  "width": 240,
+  "height": 28,
+  "confidence": 0.8134230375289917,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_447.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_351.jpg:
+{
+  "x": 271,
+  "y": 269,
+  "width": 518,
+  "height": 277,
+  "confidence": 0.9788807034492493,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_351.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 620,
+  "y": 75,
+  "width": 143,
+  "height": 50,
+  "confidence": 0.9325089454650879,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_351.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 198,
+  "y": 32,
+  "width": 307,
+  "height": 29,
+  "confidence": 0.8767924308776855,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_351.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_349.jpg:
+{
+  "x": 405,
+  "y": 267,
+  "width": 561,
+  "height": 292,
+  "confidence": 0.9673448204994202,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_349.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 60,
+  "y": 442,
+  "width": 101,
+  "height": 90,
+  "confidence": 0.9503608345985413,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_349.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 161,
+  "y": 31,
+  "width": 230,
+  "height": 30,
+  "confidence": 0.8615137338638306,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_349.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_357.jpg:
+{
+  "x": 267,
+  "y": 273,
+  "width": 457,
+  "height": 305,
+  "confidence": 0.9434313178062439,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_357.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 622,
+  "y": 270,
+  "width": 142,
+  "height": 114,
+  "confidence": 0.8994640111923218,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_357.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 188,
+  "y": 17,
+  "width": 283,
+  "height": 31,
+  "confidence": 0.8944168090820312,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_357.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_440.jpg:
+{
+  "x": 335,
+  "y": 250,
+  "width": 595,
+  "height": 365,
+  "confidence": 0.9463653564453125,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_440.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 171,
+  "y": 32,
+  "width": 305,
+  "height": 28,
+  "confidence": 0.879895806312561,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_440.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 360,
+  "y": 474,
+  "width": 546,
+  "height": 32,
+  "confidence": 0.6017618775367737,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_440.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_366.jpg:
+{
+  "x": 352,
+  "y": 233,
+  "width": 678,
+  "height": 355,
+  "confidence": 0.9872356653213501,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_366.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 166,
+  "y": 18,
+  "width": 270,
+  "height": 32,
+  "confidence": 0.8568853139877319,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_366.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 144,
+  "y": 473,
+  "width": 273,
+  "height": 28,
+  "confidence": 0.836784839630127,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_366.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_436.jpg:
+{
+  "x": 402,
+  "y": 278,
+  "width": 505,
+  "height": 339,
+  "confidence": 0.9406859874725342,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_436.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 86,
+  "y": 450,
+  "width": 137,
+  "height": 70,
+  "confidence": 0.9345070123672485,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_436.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 17,
+  "width": 299,
+  "height": 32,
+  "confidence": 0.8926962614059448,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_436.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_448.jpg:
+{
+  "x": 341,
+  "y": 226,
+  "width": 565,
+  "height": 353,
+  "confidence": 0.9196841716766357,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_448.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 212,
+  "y": 17,
+  "width": 356,
+  "height": 32,
+  "confidence": 0.916506826877594,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_448.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 273,
+  "y": 468,
+  "width": 410,
+  "height": 43,
+  "confidence": 0.8543039560317993,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_448.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_290.jpg:
+{
+  "x": 335,
+  "y": 243,
+  "width": 579,
+  "height": 375,
+  "confidence": 0.9525104761123657,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_290.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 182,
+  "y": 33,
+  "width": 266,
+  "height": 25,
+  "confidence": 0.8671311736106873,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_290.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 155,
+  "y": 472,
+  "width": 271,
+  "height": 24,
+  "confidence": 0.8298310041427612,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_290.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_368.jpg:
+{
+  "x": 340,
+  "y": 233,
+  "width": 590,
+  "height": 364,
+  "confidence": 0.9676742553710938,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_368.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 32,
+  "width": 259,
+  "height": 32,
+  "confidence": 0.8816105127334595,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_368.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 286,
+  "y": 473,
+  "width": 421,
+  "height": 28,
+  "confidence": 0.7303627729415894,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_368.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_439.jpg:
+{
+  "x": 272,
+  "y": 269,
+  "width": 521,
+  "height": 277,
+  "confidence": 0.9808422327041626,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_439.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 441,
+  "width": 140,
+  "height": 89,
+  "confidence": 0.9497891068458557,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_439.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 186,
+  "y": 32,
+  "width": 311,
+  "height": 31,
+  "confidence": 0.897220253944397,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_439.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_387.jpg:
+{
+  "x": 339,
+  "y": 242,
+  "width": 582,
+  "height": 384,
+  "confidence": 0.9686715602874756,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_387.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 17,
+  "width": 275,
+  "height": 32,
+  "confidence": 0.8757789134979248,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_387.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 131,
+  "y": 475,
+  "width": 234,
+  "height": 28,
+  "confidence": 0.8190485239028931,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_387.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_329.jpg:
+{
+  "x": 405,
+  "y": 275,
+  "width": 511,
+  "height": 331,
+  "confidence": 0.9401615858078003,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_329.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 172,
+  "y": 17,
+  "width": 294,
+  "height": 31,
+  "confidence": 0.9041568040847778,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_329.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 98,
+  "y": 434,
+  "width": 165,
+  "height": 110,
+  "confidence": 0.8879882097244263,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_329.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_325.jpg:
+{
+  "x": 335,
+  "y": 242,
+  "width": 601,
+  "height": 384,
+  "confidence": 0.9680873155593872,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_325.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 158,
+  "y": 17,
+  "width": 269,
+  "height": 31,
+  "confidence": 0.9016237854957581,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_325.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 273,
+  "y": 475,
+  "width": 511,
+  "height": 32,
+  "confidence": 0.7218204736709595,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_325.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_269.jpg:
+{
+  "x": 345,
+  "y": 235,
+  "width": 562,
+  "height": 357,
+  "confidence": 0.9487601518630981,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_269.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 17,
+  "width": 298,
+  "height": 31,
+  "confidence": 0.8947877883911133,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_269.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 291,
+  "y": 472,
+  "width": 552,
+  "height": 30,
+  "confidence": 0.5981824398040771,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_269.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_293.jpg:
+{
+  "x": 272,
+  "y": 269,
+  "width": 525,
+  "height": 278,
+  "confidence": 0.9776918888092041,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_293.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 94,
+  "width": 142,
+  "height": 96,
+  "confidence": 0.9167212247848511,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_293.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 33,
+  "width": 300,
+  "height": 32,
+  "confidence": 0.8921905755996704,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_293.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_443.jpg:
+{
+  "x": 352,
+  "y": 235,
+  "width": 673,
+  "height": 355,
+  "confidence": 0.9869049787521362,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_443.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 168,
+  "y": 17,
+  "width": 274,
+  "height": 30,
+  "confidence": 0.8783286809921265,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_443.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 378,
+  "y": 472,
+  "width": 590,
+  "height": 27,
+  "confidence": 0.6393082141876221,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_443.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_314.jpg:
+{
+  "x": 337,
+  "y": 237,
+  "width": 579,
+  "height": 370,
+  "confidence": 0.9605549573898315,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_314.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 184,
+  "y": 32,
+  "width": 328,
+  "height": 31,
+  "confidence": 0.8917262554168701,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_314.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 349,
+  "y": 465,
+  "width": 556,
+  "height": 34,
+  "confidence": 0.8862617015838623,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_314.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_338.jpg:
+{
+  "x": 256,
+  "y": 269,
+  "width": 491,
+  "height": 258,
+  "confidence": 0.975416898727417,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_338.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 603,
+  "y": 269,
+  "width": 173,
+  "height": 111,
+  "confidence": 0.9682637453079224,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_338.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 179,
+  "y": 32,
+  "width": 266,
+  "height": 28,
+  "confidence": 0.8599026799201965,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_338.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_411.jpg:
+{
+  "x": 351,
+  "y": 232,
+  "width": 672,
+  "height": 356,
+  "confidence": 0.9746415615081787,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_411.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 186,
+  "y": 33,
+  "width": 311,
+  "height": 27,
+  "confidence": 0.8981677293777466,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_411.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 317,
+  "y": 471,
+  "width": 609,
+  "height": 28,
+  "confidence": 0.6603202223777771,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_411.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_420.jpg:
+{
+  "x": 397,
+  "y": 276,
+  "width": 482,
+  "height": 321,
+  "confidence": 0.9526898860931396,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_420.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 73,
+  "y": 432,
+  "width": 114,
+  "height": 115,
+  "confidence": 0.9299677014350891,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_420.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 146,
+  "y": 32,
+  "width": 259,
+  "height": 29,
+  "confidence": 0.8219951391220093,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_420.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_419.jpg:
+{
+  "x": 352,
+  "y": 235,
+  "width": 672,
+  "height": 353,
+  "confidence": 0.98763108253479,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_419.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 17,
+  "width": 277,
+  "height": 30,
+  "confidence": 0.9095724821090698,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_419.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 290,
+  "y": 472,
+  "width": 555,
+  "height": 29,
+  "confidence": 0.6078504920005798,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_419.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_459.jpg:
+{
+  "x": 329,
+  "y": 242,
+  "width": 603,
+  "height": 376,
+  "confidence": 0.9633732438087463,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_459.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 173,
+  "y": 32,
+  "width": 284,
+  "height": 32,
+  "confidence": 0.8725473284721375,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_459.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 365,
+  "y": 471,
+  "width": 552,
+  "height": 28,
+  "confidence": 0.7272953987121582,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_459.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_364.jpg:
+{
+  "x": 340,
+  "y": 242,
+  "width": 593,
+  "height": 382,
+  "confidence": 0.9657348394393921,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_364.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 186,
+  "y": 17,
+  "width": 300,
+  "height": 32,
+  "confidence": 0.913966178894043,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_364.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 153,
+  "y": 472,
+  "width": 277,
+  "height": 27,
+  "confidence": 0.8010265827178955,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_364.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_454.jpg:
+{
+  "x": 69,
+  "y": 433,
+  "width": 119,
+  "height": 113,
+  "confidence": 0.9677636623382568,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_454.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 405,
+  "y": 267,
+  "width": 562,
+  "height": 292,
+  "confidence": 0.9619150161743164,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_454.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 17,
+  "width": 287,
+  "height": 32,
+  "confidence": 0.8593472242355347,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_454.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_299.jpg:
+{
+  "x": 352,
+  "y": 234,
+  "width": 683,
+  "height": 353,
+  "confidence": 0.9834364056587219,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_299.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 190,
+  "y": 18,
+  "width": 312,
+  "height": 30,
+  "confidence": 0.9179153442382812,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_299.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 217,
+  "y": 472,
+  "width": 283,
+  "height": 28,
+  "confidence": 0.8595433235168457,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_299.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_345.jpg:
+{
+  "x": 272,
+  "y": 267,
+  "width": 526,
+  "height": 279,
+  "confidence": 0.9734463095664978,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_345.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 627,
+  "y": 270,
+  "width": 135,
+  "height": 114,
+  "confidence": 0.9058005809783936,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_345.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 178,
+  "y": 17,
+  "width": 294,
+  "height": 30,
+  "confidence": 0.9028372168540955,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_345.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_324.jpg:
+{
+  "x": 270,
+  "y": 269,
+  "width": 526,
+  "height": 277,
+  "confidence": 0.9741621017456055,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_324.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 623,
+  "y": 94,
+  "width": 135,
+  "height": 91,
+  "confidence": 0.9447362422943115,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_324.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 160,
+  "y": 17,
+  "width": 274,
+  "height": 32,
+  "confidence": 0.8744389414787292,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_324.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_289.jpg:
+{
+  "x": 352,
+  "y": 235,
+  "width": 683,
+  "height": 353,
+  "confidence": 0.9826388955116272,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_289.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 182,
+  "y": 31,
+  "width": 302,
+  "height": 28,
+  "confidence": 0.9281715154647827,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_289.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 286,
+  "y": 475,
+  "width": 399,
+  "height": 25,
+  "confidence": 0.6850042343139648,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_289.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_362.jpg:
+{
+  "x": 266,
+  "y": 269,
+  "width": 510,
+  "height": 272,
+  "confidence": 0.9696918725967407,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_362.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 621,
+  "y": 446,
+  "width": 156,
+  "height": 94,
+  "confidence": 0.9088821411132812,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_362.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 163,
+  "y": 33,
+  "width": 265,
+  "height": 34,
+  "confidence": 0.847815990447998,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_362.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_320.jpg:
+{
+  "x": 351,
+  "y": 233,
+  "width": 670,
+  "height": 354,
+  "confidence": 0.9836376905441284,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_320.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 32,
+  "width": 290,
+  "height": 26,
+  "confidence": 0.9003332853317261,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_320.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 378,
+  "y": 472,
+  "width": 589,
+  "height": 28,
+  "confidence": 0.7443422079086304,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_320.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_337.jpg:
+{
+  "x": 351,
+  "y": 233,
+  "width": 678,
+  "height": 355,
+  "confidence": 0.9891980290412903,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_337.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 187,
+  "y": 32,
+  "width": 312,
+  "height": 28,
+  "confidence": 0.900365948677063,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_337.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 361,
+  "y": 472,
+  "width": 569,
+  "height": 30,
+  "confidence": 0.7750871181488037,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_337.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_327.jpg:
+{
+  "x": 336,
+  "y": 242,
+  "width": 577,
+  "height": 375,
+  "confidence": 0.9475923776626587,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_327.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 174,
+  "y": 17,
+  "width": 283,
+  "height": 30,
+  "confidence": 0.8895990252494812,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_327.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 182,
+  "y": 474,
+  "width": 331,
+  "height": 28,
+  "confidence": 0.836726188659668,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_327.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_451.jpg:
+{
+  "x": 614,
+  "y": 95,
+  "width": 154,
+  "height": 92,
+  "confidence": 0.9651521444320679,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_451.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 262,
+  "y": 275,
+  "width": 461,
+  "height": 308,
+  "confidence": 0.943382740020752,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_451.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 178,
+  "y": 32,
+  "width": 262,
+  "height": 30,
+  "confidence": 0.8612895607948303,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_451.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_292.jpg:
+{
+  "x": 403,
+  "y": 267,
+  "width": 562,
+  "height": 292,
+  "confidence": 0.962505578994751,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_292.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 84,
+  "y": 444,
+  "width": 134,
+  "height": 89,
+  "confidence": 0.9117001295089722,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_292.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 183,
+  "y": 17,
+  "width": 304,
+  "height": 30,
+  "confidence": 0.9102756977081299,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_292.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_303.jpg:
+{
+  "x": 347,
+  "y": 233,
+  "width": 679,
+  "height": 355,
+  "confidence": 0.9853398203849792,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_303.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 167,
+  "y": 32,
+  "width": 241,
+  "height": 27,
+  "confidence": 0.9147226810455322,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_303.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 313,
+  "y": 471,
+  "width": 467,
+  "height": 30,
+  "confidence": 0.726740300655365,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_303.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_428.jpg:
+{
+  "x": 269,
+  "y": 269,
+  "width": 520,
+  "height": 276,
+  "confidence": 0.9785164594650269,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_428.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 268,
+  "width": 142,
+  "height": 91,
+  "confidence": 0.9518170356750488,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_428.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 205,
+  "y": 18,
+  "width": 318,
+  "height": 31,
+  "confidence": 0.910688042640686,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_428.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_348.jpg:
+{
+  "x": 78,
+  "y": 443,
+  "width": 137,
+  "height": 91,
+  "confidence": 0.9523866176605225,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_348.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 399,
+  "y": 274,
+  "width": 484,
+  "height": 325,
+  "confidence": 0.9517837762832642,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_348.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 147,
+  "y": 17,
+  "width": 257,
+  "height": 32,
+  "confidence": 0.8472433090209961,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_348.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_415.jpg:
+{
+  "x": 255,
+  "y": 275,
+  "width": 437,
+  "height": 301,
+  "confidence": 0.9359498620033264,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_415.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 171,
+  "y": 17,
+  "width": 298,
+  "height": 31,
+  "confidence": 0.9192270040512085,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_415.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 608,
+  "y": 94,
+  "width": 181,
+  "height": 96,
+  "confidence": 0.90938800573349,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_415.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_432.jpg:
+{
+  "x": 405,
+  "y": 266,
+  "width": 560,
+  "height": 294,
+  "confidence": 0.9715290069580078,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_432.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 82,
+  "y": 442,
+  "width": 132,
+  "height": 90,
+  "confidence": 0.9250969886779785,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_432.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 153,
+  "y": 17,
+  "width": 264,
+  "height": 31,
+  "confidence": 0.8889300227165222,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_432.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_380.jpg:
+{
+  "x": 271,
+  "y": 269,
+  "width": 522,
+  "height": 276,
+  "confidence": 0.9813418388366699,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_380.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 269,
+  "width": 138,
+  "height": 113,
+  "confidence": 0.9299883842468262,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_380.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 199,
+  "y": 18,
+  "width": 306,
+  "height": 32,
+  "confidence": 0.8922449350357056,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_380.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_322.jpg:
+{
+  "x": 263,
+  "y": 274,
+  "width": 469,
+  "height": 308,
+  "confidence": 0.9258137941360474,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_322.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 217,
+  "y": 17,
+  "width": 343,
+  "height": 31,
+  "confidence": 0.9238908886909485,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_322.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 626,
+  "y": 84,
+  "width": 146,
+  "height": 72,
+  "confidence": 0.9002337455749512,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_322.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_384.jpg:
+{
+  "x": 347,
+  "y": 236,
+  "width": 684,
+  "height": 353,
+  "confidence": 0.985470712184906,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_384.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 18,
+  "width": 344,
+  "height": 30,
+  "confidence": 0.9120472073554993,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_384.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 364,
+  "y": 475,
+  "width": 540,
+  "height": 31,
+  "confidence": 0.5430331826210022,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_384.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_462.jpg:
+{
+  "x": 619,
+  "y": 96,
+  "width": 143,
+  "height": 92,
+  "confidence": 0.9479575157165527,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_462.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 267,
+  "y": 275,
+  "width": 469,
+  "height": 313,
+  "confidence": 0.9405728578567505,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_462.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 189,
+  "y": 32,
+  "width": 284,
+  "height": 30,
+  "confidence": 0.8529219627380371,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_462.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_406.jpg:
+{
+  "x": 401,
+  "y": 277,
+  "width": 503,
+  "height": 327,
+  "confidence": 0.9429516792297363,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_406.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 165,
+  "y": 17,
+  "width": 285,
+  "height": 30,
+  "confidence": 0.9072768688201904,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_406.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 66,
+  "y": 432,
+  "width": 99,
+  "height": 115,
+  "confidence": 0.8862895965576172,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_406.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_295.jpg:
+{
+  "x": 352,
+  "y": 237,
+  "width": 680,
+  "height": 352,
+  "confidence": 0.9847451448440552,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_295.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 180,
+  "y": 32,
+  "width": 319,
+  "height": 28,
+  "confidence": 0.9189634919166565,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_295.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 294,
+  "y": 477,
+  "width": 542,
+  "height": 32,
+  "confidence": 0.7375970482826233,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_295.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_423.jpg:
+{
+  "x": 405,
+  "y": 266,
+  "width": 561,
+  "height": 296,
+  "confidence": 0.9693645238876343,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_423.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 200,
+  "y": 32,
+  "width": 308,
+  "height": 28,
+  "confidence": 0.8884538412094116,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_423.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 84,
+  "y": 435,
+  "width": 133,
+  "height": 107,
+  "confidence": 0.885920524597168,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_423.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_268.jpg:
+{
+  "x": 330,
+  "y": 246,
+  "width": 554,
+  "height": 364,
+  "confidence": 0.9384113550186157,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_268.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 180,
+  "y": 32,
+  "width": 266,
+  "height": 28,
+  "confidence": 0.8496514558792114,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_268.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 254,
+  "y": 472,
+  "width": 448,
+  "height": 28,
+  "confidence": 0.5488083362579346,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_268.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_273.jpg:
+{
+  "x": 339,
+  "y": 232,
+  "width": 585,
+  "height": 360,
+  "confidence": 0.9491429328918457,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_273.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 184,
+  "y": 17,
+  "width": 275,
+  "height": 31,
+  "confidence": 0.8849245309829712,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_273.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 339,
+  "y": 471,
+  "width": 531,
+  "height": 29,
+  "confidence": 0.7199206352233887,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_273.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_391.jpg:
+{
+  "x": 331,
+  "y": 242,
+  "width": 593,
+  "height": 375,
+  "confidence": 0.9472322463989258,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_391.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 195,
+  "y": 32,
+  "width": 294,
+  "height": 26,
+  "confidence": 0.876471757888794,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_391.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 260,
+  "y": 471,
+  "width": 482,
+  "height": 28,
+  "confidence": 0.6149718761444092,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_391.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_413.jpg:
+{
+  "x": 273,
+  "y": 268,
+  "width": 530,
+  "height": 279,
+  "confidence": 0.9789437055587769,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_413.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 629,
+  "y": 272,
+  "width": 138,
+  "height": 75,
+  "confidence": 0.9255231618881226,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_413.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 159,
+  "y": 17,
+  "width": 270,
+  "height": 32,
+  "confidence": 0.8655712604522705,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_413.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_403.jpg:
+{
+  "x": 269,
+  "y": 269,
+  "width": 521,
+  "height": 277,
+  "confidence": 0.9754941463470459,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_403.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 618,
+  "y": 268,
+  "width": 141,
+  "height": 91,
+  "confidence": 0.9477334022521973,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_403.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 170,
+  "y": 32,
+  "width": 304,
+  "height": 32,
+  "confidence": 0.8876525163650513,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_403.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_399.jpg:
+{
+  "x": 336,
+  "y": 232,
+  "width": 584,
+  "height": 364,
+  "confidence": 0.9415866136550903,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_399.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 185,
+  "y": 17,
+  "width": 275,
+  "height": 29,
+  "confidence": 0.8884744644165039,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_399.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 256,
+  "y": 471,
+  "width": 484,
+  "height": 29,
+  "confidence": 0.5675710439682007,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_399.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_340.jpg:
+{
+  "x": 270,
+  "y": 276,
+  "width": 473,
+  "height": 313,
+  "confidence": 0.9343719482421875,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_340.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 628,
+  "y": 93,
+  "width": 138,
+  "height": 91,
+  "confidence": 0.9259563684463501,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_340.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 197,
+  "y": 32,
+  "width": 300,
+  "height": 29,
+  "confidence": 0.876969575881958,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_340.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_267.jpg:
+{
+  "x": 341,
+  "y": 251,
+  "width": 582,
+  "height": 389,
+  "confidence": 0.9435365796089172,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_267.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 191,
+  "y": 17,
+  "width": 336,
+  "height": 32,
+  "confidence": 0.9094756841659546,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_267.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 288,
+  "y": 470,
+  "width": 521,
+  "height": 27,
+  "confidence": 0.5843838453292847,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_267.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_278.jpg:
+{
+  "x": 619,
+  "y": 105,
+  "width": 140,
+  "height": 113,
+  "confidence": 0.936161994934082,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_278.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 188,
+  "y": 17,
+  "width": 311,
+  "height": 32,
+  "confidence": 0.9218919277191162,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_278.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 266,
+  "y": 278,
+  "width": 460,
+  "height": 304,
+  "confidence": 0.908597469329834,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_278.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_400.jpg:
+{
+  "x": 271,
+  "y": 269,
+  "width": 521,
+  "height": 276,
+  "confidence": 0.9754022359848022,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_400.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 619,
+  "y": 269,
+  "width": 140,
+  "height": 114,
+  "confidence": 0.9278993606567383,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_400.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 194,
+  "y": 32,
+  "width": 297,
+  "height": 30,
+  "confidence": 0.8525202870368958,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_400.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_383.jpg:
+{
+  "x": 345,
+  "y": 232,
+  "width": 680,
+  "height": 356,
+  "confidence": 0.9848632216453552,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_383.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 175,
+  "y": 17,
+  "width": 292,
+  "height": 30,
+  "confidence": 0.9035149812698364,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_383.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 243,
+  "y": 471,
+  "width": 474,
+  "height": 29,
+  "confidence": 0.669414758682251,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_383.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_281.jpg:
+{
+  "x": 347,
+  "y": 235,
+  "width": 682,
+  "height": 353,
+  "confidence": 0.9863153696060181,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_281.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 152,
+  "y": 32,
+  "width": 271,
+  "height": 27,
+  "confidence": 0.8941041231155396,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_281.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 292,
+  "y": 476,
+  "width": 555,
+  "height": 31,
+  "confidence": 0.5035105347633362,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_281.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------
+prediction_374.jpg:
+{
+  "x": 293,
+  "y": 267,
+  "width": 572,
+  "height": 301,
+  "confidence": 0.9712082743644714,
+  "class": "Map",
+  "class_id": 1,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_374.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 644,
+  "y": 431,
+  "width": 86,
+  "height": 111,
+  "confidence": 0.9619759321212769,
+  "class": "Dataset",
+  "class_id": 0,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_374.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+{
+  "x": 176,
+  "y": 33,
+  "width": 289,
+  "height": 30,
+  "confidence": 0.859346866607666,
+  "class": "Title",
+  "class_id": 2,
+  "image_path": "/kaggle/input/dv-pe/accuracy_images/map_374.png",
+  "prediction_type": "ObjectDetectionModel"
+}
+
+---------------------
+---------------------
+---------------------

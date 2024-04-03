@@ -1,0 +1,349 @@
+---------------------
+prediction_309.jpg 1 335 233 584 359
+prediction_309.jpg 2 153 32 272 29
+prediction_309.jpg 0 319 472 615 30
+---------------------
+prediction_431.jpg 1 257 269 495 264
+prediction_431.jpg 0 610 104 176 110
+prediction_431.jpg 2 159 17 274 30
+---------------------
+prediction_342.jpg 1 338 242 589 378
+prediction_342.jpg 2 177 32 260 29
+prediction_342.jpg 0 352 475 527 32
+---------------------
+prediction_271.jpg 1 405 267 563 292
+prediction_271.jpg 0 61 441 103 92
+prediction_271.jpg 2 168 17 293 32
+---------------------
+prediction_280.jpg 1 406 267 560 292
+prediction_280.jpg 0 95 441 167 89
+prediction_280.jpg 2 184 17 276 31
+---------------------
+prediction_435.jpg 1 343 242 575 378
+prediction_435.jpg 2 186 17 307 32
+prediction_435.jpg 0 219 474 272 28
+---------------------
+prediction_315.jpg 1 275 268 531 278
+prediction_315.jpg 0 627 107 135 115
+prediction_315.jpg 2 128 17 217 30
+---------------------
+prediction_372.jpg 1 289 267 556 293
+prediction_372.jpg 2 166 17 266 31
+prediction_372.jpg 0 645 74 107 53
+---------------------
+prediction_353.jpg 0 614 269 154 114
+prediction_353.jpg 1 264 269 512 271
+prediction_353.jpg 2 185 18 276 32
+---------------------
+prediction_318.jpg 1 284 268 540 286
+prediction_318.jpg 0 634 75 121 48
+prediction_318.jpg 2 179 32 301 30
+---------------------
+prediction_417.jpg 1 405 268 561 292
+prediction_417.jpg 0 97 455 165 68
+prediction_417.jpg 2 182 17 304 32
+---------------------
+prediction_316.jpg 1 339 242 588 377
+prediction_316.jpg 2 154 32 270 32
+prediction_316.jpg 0 290 474 399 31
+---------------------
+prediction_367.jpg 1 339 250 591 365
+prediction_367.jpg 2 195 31 325 34
+prediction_367.jpg 0 295 474 551 33
+---------------------
+prediction_405.jpg 1 268 269 519 276
+prediction_405.jpg 0 620 85 144 71
+prediction_405.jpg 2 168 33 240 29
+---------------------
+prediction_266.jpg 1 351 232 679 356
+prediction_266.jpg 2 191 18 292 32
+prediction_266.jpg 0 315 471 599 29
+---------------------
+prediction_425.jpg 1 263 274 463 305
+prediction_425.jpg 0 618 269 149 91
+prediction_425.jpg 2 166 17 240 32
+---------------------
+prediction_313.jpg 1 399 276 507 321
+prediction_313.jpg 0 85 442 136 89
+prediction_313.jpg 2 170 32 304 26
+---------------------
+prediction_302.jpg 0 86 440 137 90
+prediction_302.jpg 1 397 274 494 321
+prediction_302.jpg 2 172 32 307 29
+---------------------
+prediction_407.jpg 1 353 235 677 353
+prediction_407.jpg 2 175 31 258 28
+prediction_407.jpg 0 362 475 554 32
+---------------------
+prediction_339.jpg 1 403 267 563 290
+prediction_339.jpg 0 84 457 137 71
+prediction_339.jpg 2 176 34 257 26
+---------------------
+prediction_408.jpg 1 352 233 673 355
+prediction_408.jpg 2 143 32 219 27
+prediction_408.jpg 0 352 471 527 29
+---------------------
+prediction_396.jpg 1 403 267 562 292
+prediction_396.jpg 0 80 442 138 90
+prediction_396.jpg 2 179 32 297 28
+---------------------
+prediction_378.jpg 1 335 243 581 377
+prediction_378.jpg 2 180 17 295 32
+prediction_378.jpg 0 298 474 547 32
+---------------------
+prediction_301.jpg 1 351 235 682 354
+prediction_301.jpg 2 162 18 275 32
+prediction_301.jpg 0 352 477 529 34
+---------------------
+prediction_410.jpg 1 337 243 582 376
+prediction_410.jpg 2 185 17 323 32
+prediction_410.jpg 0 324 474 602 32
+---------------------
+prediction_350.jpg 1 258 269 494 261
+prediction_350.jpg 0 607 85 168 71
+prediction_350.jpg 2 168 17 275 32
+---------------------
+prediction_460.jpg 1 271 269 523 277
+prediction_460.jpg 0 627 444 142 93
+prediction_460.jpg 2 171 33 277 28
+---------------------
+prediction_310.jpg 1 270 276 475 313
+prediction_310.jpg 0 619 94 141 93
+prediction_310.jpg 2 185 32 310 32
+---------------------
+prediction_434.jpg 1 273 269 528 278
+prediction_434.jpg 0 623 442 135 90
+prediction_434.jpg 2 153 33 271 32
+---------------------
+prediction_282.jpg 1 258 268 492 259
+prediction_282.jpg 0 604 432 171 114
+prediction_282.jpg 2 161 17 278 32
+---------------------
+prediction_330.jpg 1 352 226 672 355
+prediction_330.jpg 2 211 30 330 28
+prediction_330.jpg 0 352 461 656 41
+---------------------
+prediction_311.jpg 1 270 268 520 278
+prediction_311.jpg 0 620 85 142 71
+prediction_311.jpg 2 173 17 281 30
+---------------------
+prediction_270.jpg 1 353 233 671 355
+prediction_270.jpg 2 198 18 300 29
+prediction_270.jpg 0 358 473 552 29
+---------------------
+prediction_444.jpg 1 296 268 567 302
+prediction_444.jpg 0 646 269 83 91
+prediction_444.jpg 2 183 32 277 31
+---------------------
+prediction_412.jpg 1 268 275 462 309
+prediction_412.jpg 0 626 269 141 90
+prediction_412.jpg 2 188 17 283 30
+---------------------
+prediction_352.jpg 1 350 236 686 353
+prediction_352.jpg 2 168 17 272 32
+prediction_352.jpg 0 362 476 547 32
+---------------------
+prediction_449.jpg 1 286 278 496 327
+prediction_449.jpg 2 163 17 263 32
+prediction_449.jpg 0 645 268 105 96
+---------------------
+prediction_422.jpg 1 402 267 562 290
+prediction_422.jpg 0 80 442 140 90
+prediction_422.jpg 2 171 17 249 31
+---------------------
+prediction_355.jpg 1 270 277 469 314
+prediction_355.jpg 0 626 269 141 94
+prediction_355.jpg 2 161 17 275 32
+---------------------
+prediction_409.jpg 1 286 280 500 335
+prediction_409.jpg 2 175 17 257 32
+prediction_409.jpg 0 644 93 101 92
+---------------------
+prediction_433.jpg 1 352 233 672 355
+prediction_433.jpg 2 175 17 286 30
+prediction_433.jpg 0 317 471 612 28
+---------------------
+prediction_298.jpg 1 276 268 526 278
+prediction_298.jpg 0 626 435 142 109
+prediction_298.jpg 2 188 17 285 32
+---------------------
+prediction_426.jpg 1 341 240 574 347
+prediction_426.jpg 2 209 32 359 30
+prediction_426.jpg 0 248 473 343 28
+---------------------
+prediction_335.jpg 0 619 270 140 50
+prediction_335.jpg 1 269 277 469 317
+prediction_335.jpg 2 159 32 283 30
+---------------------
+prediction_376.jpg 1 333 240 595 346
+prediction_376.jpg 2 191 32 317 29
+prediction_376.jpg 0 318 471 610 29
+---------------------
+prediction_430.jpg 1 342 232 592 365
+prediction_430.jpg 2 184 17 305 32
+prediction_430.jpg 0 248 472 467 30
+---------------------
+prediction_377.jpg 0 604 96 170 93
+prediction_377.jpg 1 248 275 436 296
+prediction_377.jpg 2 173 31 308 34
+---------------------
+prediction_276.jpg 1 272 269 522 277
+prediction_276.jpg 0 621 441 137 89
+prediction_276.jpg 2 174 17 285 32
+---------------------
+prediction_319.jpg 1 337 241 595 380
+prediction_319.jpg 2 162 32 276 31
+prediction_319.jpg 0 370 471 567 29
+---------------------
+prediction_375.jpg 1 342 236 575 351
+prediction_375.jpg 2 174 32 252 29
+prediction_375.jpg 0 264 472 380 28
+---------------------
+prediction_437.jpg 1 283 275 495 329
+prediction_437.jpg 2 192 31 323 32
+prediction_437.jpg 0 643 462 110 53
+---------------------
+prediction_341.jpg 1 293 273 514 343
+prediction_341.jpg 2 176 17 259 32
+prediction_341.jpg 0 653 270 88 53
+---------------------
+prediction_277.jpg 1 256 275 442 300
+prediction_277.jpg 2 187 17 283 32
+prediction_277.jpg 0 609 445 176 92
+---------------------
+prediction_370.jpg 1 405 267 558 295
+prediction_370.jpg 0 82 441 140 92
+prediction_370.jpg 2 176 17 260 30
+---------------------
+prediction_306.jpg 1 354 233 671 356
+prediction_306.jpg 2 193 17 294 32
+prediction_306.jpg 0 307 471 434 25
+---------------------
+prediction_308.jpg 1 275 268 528 280
+prediction_308.jpg 0 621 268 134 113
+prediction_308.jpg 2 168 32 305 32
+---------------------
+prediction_265.jpg 1 350 233 672 354
+prediction_265.jpg 2 159 17 272 29
+prediction_265.jpg 0 249 471 325 25
+---------------------
+prediction_297.jpg 1 352 235 689 353
+prediction_297.jpg 2 161 17 272 30
+prediction_297.jpg 0 358 473 561 28
+---------------------
+prediction_279.jpg 1 325 248 610 368
+prediction_279.jpg 2 154 32 265 30
+prediction_279.jpg 0 184 475 329 28
+---------------------
+prediction_388.jpg 1 337 240 562 374
+prediction_388.jpg 2 166 18 263 28
+prediction_388.jpg 0 363 472 544 28
+---------------------
+prediction_321.jpg 1 269 269 519 276
+prediction_321.jpg 0 621 269 140 91
+prediction_321.jpg 2 192 17 290 32
+---------------------
+prediction_346.jpg 1 352 235 678 354
+prediction_346.jpg 2 174 18 283 32
+prediction_346.jpg 0 291 473 550 29
+---------------------
+prediction_461.jpg 1 290 268 553 292
+prediction_461.jpg 0 639 106 98 112
+prediction_461.jpg 2 165 32 263 31
+---------------------
+prediction_402.jpg 1 352 233 670 355
+prediction_402.jpg 0 175 471 340 28
+prediction_402.jpg 2 169 31 280 28
+---------------------
+prediction_427.jpg 1 267 275 465 310
+prediction_427.jpg 2 216 17 341 32
+prediction_427.jpg 0 618 432 141 115
+---------------------
+prediction_294.jpg 1 268 275 464 310
+prediction_294.jpg 0 627 85 145 75
+prediction_294.jpg 2 198 32 337 32
+---------------------
+prediction_381.jpg 1 341 242 587 382
+prediction_381.jpg 2 176 32 257 30
+prediction_381.jpg 0 169 473 166 28
+---------------------
+prediction_385.jpg 1 272 269 525 278
+prediction_385.jpg 0 627 444 142 92
+prediction_385.jpg 2 185 18 306 32
+---------------------
+prediction_466.jpg 0 619 85 141 71
+prediction_466.jpg 1 269 275 463 308
+prediction_466.jpg 2 161 32 287 31
+---------------------
+prediction_404.jpg 1 348 235 684 353
+prediction_404.jpg 2 159 32 281 28
+prediction_404.jpg 0 278 478 520 32
+---------------------
+prediction_392.jpg 1 270 269 521 277
+prediction_392.jpg 0 619 96 143 92
+prediction_392.jpg 2 162 17 276 32
+---------------------
+prediction_395.jpg 1 405 267 555 294
+prediction_395.jpg 0 83 446 138 93
+prediction_395.jpg 2 159 17 246 31
+---------------------
+prediction_287.jpg 1 342 233 570 360
+prediction_287.jpg 2 188 17 283 32
+prediction_287.jpg 0 275 472 520 30
+---------------------
+prediction_398.jpg 1 348 234 682 353
+prediction_398.jpg 2 203 18 339 29
+prediction_398.jpg 0 255 471 487 31
+---------------------
+prediction_386.jpg 1 296 268 566 302
+prediction_386.jpg 0 646 94 85 91
+prediction_386.jpg 2 158 32 274 31
+---------------------
+prediction_317.jpg 0 614 444 155 91
+prediction_317.jpg 1 264 275 448 303
+prediction_317.jpg 2 195 32 304 31
+---------------------
+prediction_373.jpg 1 269 275 468 312
+prediction_373.jpg 0 626 433 142 111
+prediction_373.jpg 2 158 31 251 31
+---------------------
+prediction_304.jpg 1 344 232 579 362
+prediction_304.jpg 2 162 17 276 32
+prediction_304.jpg 0 218 473 424 28
+---------------------
+prediction_389.jpg 1 334 244 591 371
+prediction_389.jpg 2 178 32 312 32
+prediction_389.jpg 0 295 472 552 30
+---------------------
+prediction_284.jpg 1 349 234 681 356
+prediction_284.jpg 2 178 17 293 30
+prediction_284.jpg 0 289 472 555 29
+---------------------
+prediction_288.jpg 1 272 268 520 276
+prediction_288.jpg 0 620 268 140 90
+prediction_288.jpg 2 221 16 353 33
+---------------------
+prediction_452.jpg 1 334 247 555 361
+prediction_452.jpg 2 175 33 313 28
+prediction_452.jpg 0 362 472 546 28
+---------------------
+prediction_344.jpg 1 277 268 537 286
+prediction_344.jpg 0 627 442 122 92
+prediction_344.jpg 2 181 33 304 29
+---------------------
+prediction_336.jpg 1 340 242 573 373
+prediction_336.jpg 2 159 32 253 30
+prediction_336.jpg 0 319 473 468 32
+---------------------
+prediction_465.jpg 1 271 275 469 312
+prediction_465.jpg 2 181 17 296 32
+prediction_465.jpg 0 626 93 145 92
+---------------------
+prediction_283.jpg 1 352 233 669 355
+prediction_283.jpg 2 165 17 270 32
+prediction_283.jpg 0 199 471 362 25
+---------------------
+prediction_358.jpg 1 351 234 673 354
+prediction_358.jpg 2 147 17 254 30
+prediction_358.jpg 0 179 472 327 25
+---------------------
